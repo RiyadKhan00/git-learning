@@ -1,1 +1,2 @@
-this is my frist github reposetorey
+this is my first GitHub repository
+I have completed SSC in 2020
